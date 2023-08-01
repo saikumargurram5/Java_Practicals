@@ -1,0 +1,63 @@
+**************************Java****************************
+its a programming language by this we can develop web applications, mobile applications, enterprice applications etc....
+if we know java we can learn other languages easyly
+
+Java is made by sun micro systems in 1995
+now java becomes to Oracle.
+
+Compiler + JDK => Java Requirements
+process:- write code -> compile -> Run the code
+
+java code -> Byte Code -> JVM -> 
+
+Topics :-
+Data types
+Type Conversions & Casting
+Type Preportion
+Operators
+
+Java Virtual Machine - resp to run lib for code
+Java Runtime Env - resp to run code
+Java Devp Kit - comb of JVM and JRE
+Java is know as WORA - Write Oncs Reuse Anywhere
+
+Understanding Data in real world  and Variables
+Modulus -> int x=257
+                         byte y = (byte) x;             257/256= rem =1
+						 syso(y);                                 o/p = 1
+						 
+Operators :-
+             Assignment Operators
+			 Arthametic Operators
+			 Incriment and decrement
+			 comparision 
+			 Logical
+
+Control Statements :-
+              If
+			  If Else
+			  While
+			  Do While
+			  For
+			  For Each
+
+Object :- properties and Behaviour
+Class :- Blueprint to JVM to create object
+
+JVM Memory Management :-
+          Stack -> LIFO, Local var will get stored & Address of Obj
+          Heap -> Objects( in objects Instance var will be there)
+		  
+
+Variables :-
+        Local 
+        Instance - Global var		
+
+
+Array :-
+        int num[] = {10,12,45,86};
+		int exm[] = new int [5];
+		
+
+
+
